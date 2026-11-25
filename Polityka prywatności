@@ -1,0 +1,75 @@
+# Polityka prywatności – Valo Team Bot
+
+**Ostatnia aktualizacja: 25 listopada 2026 r.**
+
+## 1. Informacje ogólne
+
+Niniejsza polityka opisuje sposób przetwarzania danych podczas korzystania z bota Discord „Valo Team Bot” (dalej: „Bot”).
+
+Bot służy do organizowania grup graczy w Valorant i zbierania zgłoszeń na serwerach Discord.
+
+## 2. Jakie dane są przetwarzane?
+
+Podczas działania Bota mogą być przetwarzane następujące informacje:
+
+- identyfikator użytkownika Discord,
+- identyfikator serwera Discord,
+- identyfikator kanału,
+- identyfikator wiadomości rekrutacyjnej,
+- reakcje użytkowników na wiadomość rekrutacyjną.
+
+Dane te są wykorzystywane wyłącznie do obsługi funkcji Bota, w szczególności do ustalania liczby zgłoszonych graczy i ograniczenia drużyny do 5 osób.
+
+## 3. Sposób przechowywania danych
+
+Bot przechowuje identyfikatory aktywnych rekrutacji w pamięci operacyjnej (RAM) podczas swojego działania.
+
+Bot nie korzysta z własnej bazy danych i nie zapisuje zgłoszeń na stałe.
+
+Po ponownym uruchomieniu Bota lista aktywnych rekrutacji jest tracona.
+
+Bot pobiera informacje o reakcjach i użytkownikach z usług Discord w celu aktualizacji liczby uczestników.
+
+## 4. Odbiorcy danych
+
+Bot korzysta z platformy Discord i jej API.
+
+Dane nie są sprzedawane ani udostępniane w celach reklamowych.
+
+Discord może przetwarzać dane zgodnie z własną polityką prywatności:
+
+https://discord.com/privacy
+
+Jeżeli Bot jest uruchamiany na zewnętrznym hostingu, dostawca hostingu może przetwarzać dane techniczne, takie jak logi połączeń lub informacje diagnostyczne.
+
+## 5. Okres przechowywania
+
+Bot nie przechowuje danych zgłoszeń po zakończeniu działania procesu.
+
+Informacje o aktywnych rekrutacjach są przechowywane w pamięci RAM do momentu zakończenia działania Bota lub jego ponownego uruchomienia.
+
+Wiadomości rekrutacyjne pozostają na serwerze Discord do czasu ich usunięcia przez użytkownika lub administratora serwera.
+
+## 6. Prawa użytkowników
+
+Użytkownik może:
+- wycofać zgłoszenie poprzez usunięcie reakcji,
+- poprosić administratora Bota o informacje dotyczące przetwarzania danych,
+- skontaktować się z administratorem w sprawie prywatności.
+
+## 7. Bezpieczeństwo
+
+Administrator podejmuje rozsądne działania w celu ochrony Bota i jego konfiguracji.
+
+Token Bota powinien być przechowywany w bezpieczny sposób i nie może być udostępniany osobom nieuprawnionym.
+
+## 8. Zmiany polityki
+
+Polityka prywatności może być aktualizowana w przypadku zmian funkcjonalności Bota lub sposobu przetwarzania danych.
+
+## 9. Kontakt
+
+W sprawach dotyczących prywatności i danych można skontaktować się z administratorem:
+
+**Kontakt:** [WSTAW SWÓJ ADRES E-MAIL LUB KONTAKT DISCORD]
+
